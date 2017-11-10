@@ -1,2 +1,4 @@
 Hello GIT.
 This is my first git project.
+
+Adding more text.
